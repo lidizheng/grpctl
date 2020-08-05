@@ -1,2 +1,2 @@
-# grpctl
-Local dev helper for gRPC services
+# gRPC Control - grpctl
+Local admin console for gRPC services
